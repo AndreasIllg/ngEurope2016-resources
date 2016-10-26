@@ -9,7 +9,7 @@ Christian Weyer
 [Slides](https://speakerdeck.com/christianweyer/from-zero-to-hero-build-cross-platform-solutions-with-angular-2)
 
 **Migrating to Angular 2**  
-Manfred Steyer
+Manfred Steyer    
 [Slides, Demo etc.](https://www.softwarearchitekt.at/post/2016/10/25/slides-and-samples-from-my-angularjs-1-x-to-angular-2-migration-workshop-at-ngeurope-2016-in-paris.aspx)
 
 
