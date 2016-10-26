@@ -88,31 +88,38 @@ Hans Larsen
 
 **New Insights into Angular 2 Applications with Augury**  
 Vanessa Yuen
+[Slides](http://slides.com/vanessayuenn/augury-ngeurope#/)
 [Github Repo](github.com/rangle/augury)
 
 **Getting Universal with Angular 2**  
 Wassim Chegham
+[Github Repo for Universal starter](https://github.com/angular/universal-starter)
 
 **From UI-Router to Component Router**  
-Nir Kaufman
+Nir Kaufman  
+Resources:
+- [Viktor Savkin on Angular2](https://vsavkin.com/)
+- [Router Book](https://leanpub.com/router)
 
 **Reactive Music Apps in Angular and RxJS**  
 Tero Parviainen
+[Github Repo](https://github.com/teropa/in-c)
+[The app](https://teropa.info/in-c/)
 
-**ngAnimate2 = Layouts + Animations**
+**ngAnimate2 = Layouts + Animations**  
 Matias Niemelä
 
 **Evolution of Web on Mobile**  
 Adam Bradley
 
-**You will learn RxJS**
+**You will learn RxJS**  
 André Staltz
 
 **Minifying Angular 2 Applications**  
 Alex Eagle
 
-**Full throttle Cross-platform development with Angular 2, Cordova and Electron**
+**Full throttle Cross-platform development with Angular 2, Cordova and Electron**  
 Christian Weyer, Thorsten Hans
 
-**Custom renderers in Angular 2**
+**Custom renderers in Angular 2**  
 Marc Laval
