@@ -21,11 +21,11 @@ Misko Hevery
 
 **Angular & RxJS**  
 Rob Wormald  
-[Slides](https://docs.google.com/presentation/d/1Q4raWgWEkhJsPNWD9O_67kIc3PtkwebppqRFhFPKQVE/edit?usp=sharing)  &nbsp;&nbsp;
+[Slides](https://docs.google.com/presentation/d/1Q4raWgWEkhJsPNWD9O_67kIc3PtkwebppqRFhFPKQVE/edit?usp=sharing)  &nbsp;&nbsp; 
 
 **Angular BatScanner**  
 Douglas Duteil  
-[Github Repo](https://github.com/douglasduteil/angular-batscanner)
+[Github Repo](https://github.com/douglasduteil/angular-batscanner) &nbsp;&nbsp; 
 [Browser Extension on Chrome Store](https://chrome.google.com/webstore/detail/angular-batscanner/gcngciildkejiapchdgpcniflijoiadf)
 
 **Custom widgets for Angular2? Piece of cake!**  
@@ -55,7 +55,7 @@ Daniel Rosenwasser
 
 **AngularFire2 and you**  
 Erik Haddad  
-[Demo App](https://quando.social/)  
+[Demo App](https://quando.social/) &nbsp;&nbsp; 
 [Github Repo](https://github.com/erikhaddad/angular2-quando)
 
 	
@@ -89,12 +89,12 @@ Hans Larsen
 
 **New Insights into Angular 2 Applications with Augury**  
 Vanessa Yuen  
-[Slides](http://slides.com/vanessayuenn/augury-ngeurope#/)
+[Slides](http://slides.com/vanessayuenn/augury-ngeurope#/) &nbsp;&nbsp; 
 [Github Repo](https://github.com/rangle/augury)
 
 **Getting Universal with Angular 2**  
 Wassim Chegham  
-[Slides](https://slides.com/wassimchegham/angular2-universal)
+[Slides](https://slides.com/wassimchegham/angular2-universal) &nbsp;&nbsp;
 [Github Repo for Universal starter](https://github.com/angular/universal-starter)
 
 **From UI-Router to Component Router**  
@@ -105,12 +105,12 @@ Resources:
 
 **Reactive Music Apps in Angular and RxJS**  
 Tero Parviainen  
-[Github Repo](https://github.com/teropa/in-c)
+[Github Repo](https://github.com/teropa/in-c) &nbsp;&nbsp; 
 [The app](https://teropa.info/in-c/)
 
 **ngAnimate2 = Layouts + Animations**  
 Matias Niemelä  
-[Slides](http://yom.nu/ng2eu-2016)
+[Slides](http://yom.nu/ng2eu-2016) &nbsp;&nbsp; 
 [Github Repo](http://github.com/matsko/ng2eu-2016-code)
 
 **Evolution of Web on Mobile**  
