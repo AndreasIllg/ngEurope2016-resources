@@ -25,6 +25,7 @@ Rob Wormald
 
 **Angular BatScanner**  
 Douglas Duteil  
+[Github Repo](https://github.com/douglasduteil/angular-batscanner)
 [Browser Extension on Chrome Store](https://chrome.google.com/webstore/detail/angular-batscanner/gcngciildkejiapchdgpcniflijoiadf)
 
 **Custom widgets for Angular2? Piece of cake!**  
@@ -54,7 +55,7 @@ Daniel Rosenwasser
 
 **AngularFire2 and you**  
 Erik Haddad  
-[Demo App](https://quando.social/)
+[Demo App](https://quando.social/)  
 [Github Repo](https://github.com/erikhaddad/angular2-quando)
 
 	
@@ -62,7 +63,7 @@ Erik Haddad
 **Lightning Talks**
 
 **Data Binding in Angular 2**  
-Manfred Steyer
+Manfred Steyer  
 [Slides](https://speakerdeck.com/manfredsteyer/databinding-in-angular-2)
 
 **Angular 2 love at first sight with GraphQL**  
@@ -87,12 +88,12 @@ Wolfgang Goedel
 Hans Larsen
 
 **New Insights into Angular 2 Applications with Augury**  
-Vanessa Yuen
+Vanessa Yuen  
 [Slides](http://slides.com/vanessayuenn/augury-ngeurope#/)
 [Github Repo](https://github.com/rangle/augury)
 
 **Getting Universal with Angular 2**  
-Wassim Chegham
+Wassim Chegham  
 [Slides](https://slides.com/wassimchegham/angular2-universal)
 [Github Repo for Universal starter](https://github.com/angular/universal-starter)
 
@@ -103,24 +104,26 @@ Resources:
 - [Router Book](https://leanpub.com/router)
 
 **Reactive Music Apps in Angular and RxJS**  
-Tero Parviainen
+Tero Parviainen  
 [Github Repo](https://github.com/teropa/in-c)
 [The app](https://teropa.info/in-c/)
 
 **ngAnimate2 = Layouts + Animations**  
-Matias Niemelä
+Matias Niemelä  
+[Slides](http://yom.nu/ng2eu-2016)
+[Github Repo](http://github.com/matsko/ng2eu-2016-code)
 
 **Evolution of Web on Mobile**  
-Adam Bradley
+Adam Bradley  
 
 **You will learn RxJS**  
-André Staltz
+André Staltz  
 
 **Minifying Angular 2 Applications**  
-Alex Eagle
+Alex Eagle  
 
 **Full throttle Cross-platform development with Angular 2, Cordova and Electron**  
-Christian Weyer, Thorsten Hans
+Christian Weyer, Thorsten Hans  
 
 **Custom renderers in Angular 2**  
-Marc Laval
+Marc Laval  
