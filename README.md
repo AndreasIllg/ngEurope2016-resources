@@ -46,7 +46,6 @@ Jen Bourey
 
 **Typescript latest**  
 Daniel Rosenwasser  
-[Sample Code](https://github.com/DanielRosenwasser/ng-europe-2016)
 
 **AngularFire2 and you**  
 Erik Haddad  
@@ -59,6 +58,7 @@ Erik Haddad
 
 **Data Binding in Angular 2**  
 Manfred Steyer
+[Slides](https://speakerdeck.com/manfredsteyer/databinding-in-angular-2)
 
 **Angular 2 love at first sight with GraphQL**  
 Gerard Sans  
@@ -74,3 +74,40 @@ Simon Hampton
 **RxJS & angular.js**  
 Wolfgang Goedel  
 [Github Repo](https://github.com/wolfgangGoedel/observe-on-scope)
+
+
+##Day 2
+
+**Angular CLI & You**  
+Hans Larsen
+
+**New Insights into Angular 2 Applications with Augury**  
+Vanessa Yuen
+[Github Repo](github.com/rangle/augury)
+
+**Getting Universal with Angular 2**  
+Wassim Chegham
+
+**From UI-Router to Component Router**  
+Nir Kaufman
+
+**Reactive Music Apps in Angular and RxJS**  
+Tero Parviainen
+
+**ngAnimate2 = Layouts + Animations**
+Matias Niemelä
+
+**Evolution of Web on Mobile**  
+Adam Bradley
+
+**You will learn RxJS**
+André Staltz
+
+**Minifying Angular 2 Applications**  
+Alex Eagle
+
+**Full throttle Cross-platform development with Angular 2, Cordova and Electron**
+Christian Weyer, Thorsten Hans
+
+**Custom renderers in Angular 2**
+Marc Laval
