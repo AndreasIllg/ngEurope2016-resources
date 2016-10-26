@@ -89,10 +89,11 @@ Hans Larsen
 **New Insights into Angular 2 Applications with Augury**  
 Vanessa Yuen
 [Slides](http://slides.com/vanessayuenn/augury-ngeurope#/)
-[Github Repo](github.com/rangle/augury)
+[Github Repo](https://github.com/rangle/augury)
 
 **Getting Universal with Angular 2**  
 Wassim Chegham
+[Slides](https://slides.com/wassimchegham/angular2-universal)
 [Github Repo for Universal starter](https://github.com/angular/universal-starter)
 
 **From UI-Router to Component Router**  
