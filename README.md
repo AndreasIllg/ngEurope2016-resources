@@ -121,9 +121,14 @@ André Staltz
 
 **Minifying Angular 2 Applications**  
 Alex Eagle  
+[Slides](https://t.co/bMrJ7omGM6)
 
 **Full throttle Cross-platform development with Angular 2, Cordova and Electron**  
 Christian Weyer, Thorsten Hans  
+[Demo Application Sources Zip](http://bit.ly/hacks-ngeurope2016)
 
 **Custom renderers in Angular 2**  
 Marc Laval  
+[Slides](https://t.co/43uvtdLLk1)  
+
+
