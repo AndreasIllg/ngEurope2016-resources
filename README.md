@@ -125,7 +125,7 @@ Alex Eagle
 
 **Full throttle Cross-platform development with Angular 2, Cordova and Electron**  
 Christian Weyer, Thorsten Hans  
-[Slides](https://speakerdeck.com/christianweyer/full-throttle-cross-platform-development-with-angular-2-cordova-and-electron) &nbps;&nbsp;
+[Slides](https://speakerdeck.com/christianweyer/full-throttle-cross-platform-development-with-angular-2-cordova-and-electron) &nbsp;&nbsp;
 [Demo Application Sources Zip](http://bit.ly/hacks-ngeurope2016)
 
 **Custom renderers in Angular 2**  
