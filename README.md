@@ -21,40 +21,50 @@ Misko Hevery
 
 **Angular & RxJS**  
 Rob Wormald  
+[Video](https://www.youtube.com/watch?v=WWR9nxVx1ec) &nbsp;&nbsp; 
 [Slides](https://docs.google.com/presentation/d/1Q4raWgWEkhJsPNWD9O_67kIc3PtkwebppqRFhFPKQVE/edit?usp=sharing)  &nbsp;&nbsp; 
 
 **Angular BatScanner**  
 Douglas Duteil  
+[Video](https://www.youtube.com/watch?v=2DHpmyFWULQ) &nbsp;&nbsp; 
 [Github Repo](https://github.com/douglasduteil/angular-batscanner) &nbsp;&nbsp; 
 [Browser Extension on Chrome Store](https://chrome.google.com/webstore/detail/angular-batscanner/gcngciildkejiapchdgpcniflijoiadf)
 
 **Custom widgets for Angular2? Piece of cake!**  
 Pawel Kozlowski  
+[Video](https://www.youtube.com/watch?v=l8OHU-TEG7g) &nbsp;&nbsp; 
 [Slides](https://pkozlowski-opensource.github.io/ng-europe-2016)
 
 **Data science with angular**  
 Ari Lerner  
+[Video](https://www.youtube.com/watch?v=ZVEp9K_cynU)
 
 **Unit Tests for Angular 2 Applications**  
 Vikram Subramanian  
+[Video](https://www.youtube.com/watch?v=dVtDnvTLaIo) &nbsp;&nbsp; 
 [Slides](https://t.co/VrzZ284zoM)
 
 **Embed hybrid features in Mobile Banking App**  
 Willem Veelenturf  
+[Video](https://www.youtube.com/watch?v=kmNRgOLZhXQ)
 
 **Security in Angular 2**  
 Martin Probst  
+[Video](https://www.youtube.com/watch?v=WN-XczmI-LY) &nbsp;&nbsp; 
 [Slides](http://g.co/ng/security-ng-europe16)
 
 **Getting to Angular 2**  
 Jen Bourey  
+[Video](https://www.youtube.com/watch?v=2b-tEis9k4M)  &nbsp;&nbsp; 
 [Github Repo](https://github.com/bourey/ngupgrade-example)
 
 **Typescript latest**  
 Daniel Rosenwasser  
+[Video](https://www.youtube.com/watch?v=o8YI2hvassE) &nbsp;&nbsp; 
 
 **AngularFire2 and you**  
 Erik Haddad  
+[Video](https://www.youtube.com/watch?v=uLzMOaFt6vc) &nbsp;&nbsp; 
 [Demo App](https://quando.social/) &nbsp;&nbsp; 
 [Github Repo](https://github.com/erikhaddad/angular2-quando)
 
@@ -64,21 +74,26 @@ Erik Haddad
 
 **Data Binding in Angular 2**  
 Manfred Steyer  
+[Video](https://www.youtube.com/watch?v=JyHIUMgN_Ew)
 [Slides](https://speakerdeck.com/manfredsteyer/databinding-in-angular-2)
 
 **Angular 2 love at first sight with GraphQL**  
 Gerard Sans  
+[Video](https://www.youtube.com/watch?v=8lBepXJWfb0) &nbsp;&nbsp; 
 [Slides](http://slides.com/gerardsans/ngeurope-ng2-loves-graphql#/)
 	
 **Dynamic Angular2 Forms**  
 Mashhood Rastgar
+[Video](https://www.youtube.com/watch?v=hf1plxcF0sk)
 
 **Upgrading 1.x -> ng2 + ngrx**  
 Simon Hampton  
+[Video](https://www.youtube.com/watch?v=_HiLfC-3g60) &nbsp;&nbsp; 
 [Github Repo](https://github.com/simonh1000/af-ng2-ngrx)
 
 **RxJS & angular.js**  
 Wolfgang Goedel  
+[Video](https://www.youtube.com/watch?v=n9us_5FmEIo) &nbsp;&nbsp; 
 [Github Repo](https://github.com/wolfgangGoedel/observe-on-scope)
 
 
