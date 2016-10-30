@@ -17,7 +17,7 @@ Manfred Steyer
 
 **Day 1 Keynote**   
 Misko Hevery  
-
+[Video](https://www.youtube.com/watch?v=wpxnU62mNJ4)
 
 **Angular & RxJS**  
 Rob Wormald  
@@ -74,7 +74,7 @@ Erik Haddad
 
 **Data Binding in Angular 2**  
 Manfred Steyer  
-[Video](https://www.youtube.com/watch?v=JyHIUMgN_Ew)
+[Video](https://www.youtube.com/watch?v=JyHIUMgN_Ew) &nbsp;&nbsp; 
 [Slides](https://speakerdeck.com/manfredsteyer/databinding-in-angular-2)
 
 **Angular 2 love at first sight with GraphQL**  
@@ -83,7 +83,7 @@ Gerard Sans
 [Slides](http://slides.com/gerardsans/ngeurope-ng2-loves-graphql#/)
 	
 **Dynamic Angular2 Forms**  
-Mashhood Rastgar
+Mashhood Rastgar  
 [Video](https://www.youtube.com/watch?v=hf1plxcF0sk)
 
 **Upgrading 1.x -> ng2 + ngrx**  
