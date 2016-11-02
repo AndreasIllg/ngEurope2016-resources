@@ -100,7 +100,7 @@ Wolfgang Goedel
 ##Day 2
 
 **Angular CLI & You**  
-Hans Larsen
+Hans Larsen  
 [Video](https://www.youtube.com/watch?v=LN2xvQqAo-g)
 
 **New Insights into Angular 2 Applications with Augury**  
@@ -158,5 +158,5 @@ Marc Laval
 [Video](https://www.youtube.com/watch?v=iE-wYf4AaiM)  &nbsp;&nbsp;
 [Slides](https://t.co/43uvtdLLk1)  
 
-**Q&A Panel**
+**Q&A Panel**  
 [Video](https://www.youtube.com/watch?v=qcfThV5aLuE)
