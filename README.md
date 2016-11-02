@@ -101,50 +101,61 @@ Wolfgang Goedel
 
 **Angular CLI & You**  
 Hans Larsen
+[Video](https://www.youtube.com/watch?v=LN2xvQqAo-g)
 
 **New Insights into Angular 2 Applications with Augury**  
 Vanessa Yuen  
+[Video](https://www.youtube.com/watch?v=YaDFDGS3EFM) &nbsp;&nbsp; 
 [Slides](http://slides.com/vanessayuenn/augury-ngeurope#/) &nbsp;&nbsp; 
 [Github Repo](https://github.com/rangle/augury)
 
 **Getting Universal with Angular 2**  
 Wassim Chegham  
+[Video](https://www.youtube.com/watch?v=faWCLmYsFQ8) &nbsp;&nbsp;
 [Slides](https://slides.com/wassimchegham/angular2-universal) &nbsp;&nbsp;
 [Github Repo for Universal starter](https://github.com/angular/universal-starter)
 
 **From UI-Router to Component Router**  
 Nir Kaufman  
+[Video](https://www.youtube.com/watch?v=vQFImWHxCDM)  
 Resources:
 - [Viktor Savkin on Angular2](https://vsavkin.com/)
 - [Router Book](https://leanpub.com/router)
 
 **Reactive Music Apps in Angular and RxJS**  
 Tero Parviainen  
+[Video](https://www.youtube.com/watch?v=-fPyfSAEZgk)  &nbsp;&nbsp;
 [Github Repo](https://github.com/teropa/in-c) &nbsp;&nbsp; 
 [The app](https://teropa.info/in-c/)
 
 **ngAnimate2 = Layouts + Animations**  
 Matias Niemelä  
+[Video](https://www.youtube.com/watch?v=NGNE7LMd9VY) &nbsp;&nbsp;
 [Slides](http://yom.nu/ng2eu-2016) &nbsp;&nbsp; 
 [Github Repo](http://github.com/matsko/ng2eu-2016-code)
 
 **Evolution of Web on Mobile**  
 Adam Bradley  
+[Video](https://www.youtube.com/watch?v=7rzjmsUBmFQ)
 
 **You will learn RxJS**  
 André Staltz  
+[Video](https://www.youtube.com/watch?v=uQ1zhJHclvs)
 
 **Minifying Angular 2 Applications**  
 Alex Eagle  
+[Video](https://www.youtube.com/watch?v=Ml7qHlk80kc)  &nbsp;&nbsp;
 [Slides](https://t.co/bMrJ7omGM6)
 
 **Full throttle Cross-platform development with Angular 2, Cordova and Electron**  
 Christian Weyer, Thorsten Hans  
+[Video](https://www.youtube.com/watch?v=TqFnVdPFVU0)  &nbsp;&nbsp; 
 [Slides](https://speakerdeck.com/christianweyer/full-throttle-cross-platform-development-with-angular-2-cordova-and-electron) &nbsp;&nbsp;
 [Demo Application Sources Zip](http://bit.ly/hacks-ngeurope2016)
 
 **Custom renderers in Angular 2**  
 Marc Laval  
+[Video](https://www.youtube.com/watch?v=iE-wYf4AaiM)  &nbsp;&nbsp;
 [Slides](https://t.co/43uvtdLLk1)  
 
 
