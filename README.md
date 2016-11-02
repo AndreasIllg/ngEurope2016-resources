@@ -158,4 +158,5 @@ Marc Laval
 [Video](https://www.youtube.com/watch?v=iE-wYf4AaiM)  &nbsp;&nbsp;
 [Slides](https://t.co/43uvtdLLk1)  
 
-
+**Q&A Panel**
+[Video](https://www.youtube.com/watch?v=qcfThV5aLuE)
